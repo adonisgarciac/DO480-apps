@@ -6,5 +6,3 @@ resources:
   - kustomization.yaml
   - service-frontend.yaml
   - service.yaml
-
-nameSuffix: -apac
